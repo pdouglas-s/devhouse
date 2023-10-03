@@ -1,4 +1,5 @@
 yarn init -y
 yarn add express
 yarn add mongoose
+yarn add cors
 Testar servidor digitar no cmd  node ./src/server.js
