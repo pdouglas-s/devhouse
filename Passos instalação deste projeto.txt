@@ -1,5 +1,8 @@
 yarn init -y
 yarn add express
 yarn add mongoose
-yarn add cors
+yarn add cors permitir definir se api pode ser publica ou privada
+yarn add yup biblioteca para validações de campos validações em formato de Schema
+yarn add eslint -D manter padrao de codigo
+para iniciar eslint = yarn eslint --init
 Testar servidor digitar no cmd  node ./src/server.js
